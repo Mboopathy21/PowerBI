@@ -1,6 +1,4 @@
 
-# Power-BI
-Power BI Sample Dashboards and Demos
 
 # Power BI Dashboards
 
