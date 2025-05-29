@@ -35,7 +35,7 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 ## 📁 Folder Structure
 
 
-![All dashboards](All dashboards.jpg)
+![All dashboards](All_dashboards.jpg)
 
 
 
