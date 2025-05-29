@@ -36,3 +36,8 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 
 
 ![All dashboards](All dashboards.jpg)
+
+
+<img src="https://raw.githubusercontent.com/Mboopathy21/Mboopathy21/output/snake.svg" alt="Snake animation" />
+
+###
