@@ -9,7 +9,7 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 ![ll_dashboards](All_dashboards.jpg)
 
 
-### 1. Blinkit Sales Dashboard
+### 1. Blinkit Sales Dashboard - (Blinkit.pbix)
 - **Purpose**: Analyze sales performance, customer behavior, and delivery metrics for Blinkit (a grocery delivery platform).
 - **Key Insights**: Total revenue, top-selling products, order trends, and delivery times.
 
