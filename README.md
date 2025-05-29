@@ -6,7 +6,7 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 
 ## 📊 Dashboards Overview
 
-![All_dashboards](All_dashboards.jpg)
+![ll_dashboards](All_dashboards.jpg)
 
 
 ### 1. Blinkit Sales Dashboard
