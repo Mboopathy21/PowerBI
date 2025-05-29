@@ -6,6 +6,9 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 
 ## 📊 Dashboards Overview
 
+![All dashboards](All_dashboards.jpg)
+
+
 ### 1. Blinkit Sales Dashboard
 - **Purpose**: Analyze sales performance, customer behavior, and delivery metrics for Blinkit (a grocery delivery platform).
 - **Key Insights**: Total revenue, top-selling products, order trends, and delivery times.
@@ -32,10 +35,7 @@ Welcome to the Power BI Dashboards collection. This folder contains a set of int
 - **Data Modeling**
 - **ETL (Extract, Transform, Load)**
 
-## 📁 Folder Structure
 
-
-![All dashboards](All_dashboards.jpg)
 
 
 
